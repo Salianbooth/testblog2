@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "a00ae0f2be12bb2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "72deca9f4cca4229",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1132722f5a7553d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/多线程和线程同步-C-C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "多线程和线程同步-C-C"
+            }
+          },
+          {
+            "id": "ef9939ecab7cd175",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/CMU15445/CMU15-445-Lecture-2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMU15-445-Lecture-2"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ddf8a2d91703fb20",
+    "type": "split",
+    "children": [
+      {
+        "id": "08a70e76699a171b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa0abdeac263b72",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "11bce0aa3585f0e7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "85c189bc5980cab0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "184c29391e32c034",
+    "type": "split",
+    "children": [
+      {
+        "id": "927955257610deb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba10fface48ea591",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/CMU15445/CMU15-445-Lecture-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "f56440e18eeb41d5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/多线程和线程同步-C-C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "多线程和线程同步-C-C 的出链列表"
+            }
+          },
+          {
+            "id": "a02a50a06dc14213",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c14e0c3f6880cc6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/多线程和线程同步-C-C.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "多线程和线程同步-C-C 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ef9939ecab7cd175",
+  "lastOpenFiles": [
+    "_posts/CMU15445/CMU15-445-Lecture-3.md",
+    "_posts/CMU15445/CMU15-445-lab0.md",
+    "_posts/CMU15445/CMU15-445-Lecture-4.md",
+    "_posts/CS106L/CS106L-Lecture-4.md",
+    "_posts/CS106L/CS106L-Lecture-6.md",
+    "_posts/CS106L/CS106L-Lecture-5.md",
+    "_posts/CMU15445/CMU15-445-Lecture-1.md",
+    "_posts/CMU15445/DB-Terminology-Hub-A-Guide-to-15-445.md",
+    "_posts/CMU15445/CMU15-445-Lecture-2.md",
+    "_posts/CS106L/CS106L-Lecture-1.md",
+    "未命名.md",
+    "未命名.base",
+    "未命名.canvas",
+    "2026-04-11.md",
+    "未命名 1.canvas",
+    "_posts/CMU15445",
+    "_posts/CS106L/CS106L-Lecture-2.md",
+    "_posts/CS106L/CS106L-Lecture-3.md",
+    "_posts/CS106L",
+    "_posts/线程池工作原理和实现.md",
+    "_posts/多线程和线程同步-C-C.md",
+    "_posts/建站日志.md",
+    "_posts/Data-Structrue-and-Algorithms.md",
+    "_posts/机器学习.md",
+    "_posts/C-Primer-learning.md",
+    "_posts/Write-a-simple-memory-allocator.md",
+    "_posts/算法.md",
+    "_posts/Must-Know-SQL-Essentials.md",
+    "_posts/MOSPI-Chapter5.md",
+    "_posts/CNTDA-Chapter2-Reading.md",
+    "eac0c26227587d4f2c27e51639d684b 1.png",
+    "eac0c26227587d4f2c27e51639d684b.png"
+  ]
+}
